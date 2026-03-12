@@ -1,17 +1,16 @@
-👋 Hello, I'm Tirta Rachmandiri W.
-
-💻 Frontend Developer | Web Enthusiast | Tech Explorer
-
-I enjoy building modern web interfaces, experimenting with technologies, and solving real-world problems through code. I focus mainly on frontend development, but I also explore backend systems and mobile development.
-
----
+<!-- PROFILE HEADER --><h1 align="center">Hi 👋, I'm Tirta Rachmandiri W.</h1>
+<h3 align="center">Frontend Developer • Web Enthusiast • Tech Explorer</h3><p align="center">
+Building modern web interfaces, exploring new technologies, and solving real-world problems through code.
+</p><p align="center">
+<img src="https://komarev.com/ghpvc/?username=andreracodex&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>---
 
 🚀 About Me
 
-- 🔭 Currently working on Web & Frontend Projects
+- 🔭 Currently building web-based applications
 - 🌱 Learning PHP, Laravel, Vue.js, and Flutter
-- 🎨 Interested in UI/UX, Web Systems, and Modern Frontend
-- 💼 Open for Freelance & Side Projects
+- 🎯 Focused on frontend development and UI systems
+- 💼 Open for freelance and side projects
 - 🌏 Based in Indonesia
 
 ---
@@ -20,74 +19,56 @@ I enjoy building modern web interfaces, experimenting with technologies, and sol
 
 Frontend
 
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"Vue.js" (https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue" />
+</p>Backend
 
-Backend
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel" />
+</p>Mobile
 
-"PHP" (https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-"Laravel" (https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>Tools
 
-Mobile
-
-"Flutter" (https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-Tools
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"Figma" (https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-"VSCode" (https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=git,figma,vscode,linux" />
+</p>---
 
 📊 GitHub Statistics
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=andreracodex&show_icons=true&theme=tokyonight)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andreracodex&show_icons=true&theme=tokyonight"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreracodex&layout=compact&theme=tokyonight"/></p>---
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=andreracodex&layout=compact&theme=tokyonight)
+📈 Contribution Graph
 
----
-
-📈 Contribution Activity
-
-"GitHub Activity Graph" (https://github-readme-activity-graph.vercel.app/graph?username=andreracodex&theme=tokyo-night)
-
----
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=andreracodex&theme=tokyo-night"/></p>---
 
 🔥 Current Focus
 
-- Building modern web apps
-- Improving Vue.js frontend architecture
-- Learning Flutter mobile development
-- Exploring API integrations
+- Developing modern frontend architecture
+- Improving Vue.js application structure
+- Building Flutter mobile applications
+- Learning API design and integrations
 
 ---
 
-📂 Featured Projects
+📂 Featured Work
 
-You can check my repositories for projects related to:
+Repositories contain projects such as:
 
 - 🌐 Web Applications
-- 🎨 Frontend UI Projects
+- 🎨 Frontend UI Systems
 - 📱 Flutter Mobile Apps
-- ⚙️ Backend APIs
+- ⚙️ REST APIs and backend services
 
 ---
 
-📫 Contact Me
+📫 Contact
 
 📧 Email: racodex@gmail.com
 
-💬 Open for collaboration, freelance work, and side projects
+💬 Open for collaboration, freelance work, and development projects.
 
 ---
 
-👀 Profile Views
-
-"Visitor Count" (https://komarev.com/ghpvc/?username=andreracodex&style=for-the-badge)
-
----
-
-⭐ If you find my repositories useful, feel free to star them!
+⭐ If you find my repositories useful, consider giving them a star.
