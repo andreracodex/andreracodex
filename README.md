@@ -1,74 +1,108 @@
-<!-- PROFILE HEADER --><h1 align="center">Hi 👋, I'm Tirta Rachmandiri W.</h1>
-<h3 align="center">Frontend Developer • Web Enthusiast • Tech Explorer</h3><p align="center">
-Building modern web interfaces, exploring new technologies, and solving real-world problems through code.
-</p><p align="center">
-<img src="https://komarev.com/ghpvc/?username=andreracodex&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>---
+# Hi 👋, I'm Tirta Rachmandiri W.
 
-🚀 About Me
+### Frontend Developer • Full-Stack Developer • Tech Explorer
 
-- 🔭 Currently building web-based applications
-- 🌱 Learning PHP, Laravel, Vue.js, and Flutter
-- 🎯 Focused on frontend development and UI systems
-- 💼 Open for freelance and side projects
+Building modern web applications, scalable systems, and intuitive user interfaces. Passionate about exploring new technologies and solving real-world problems through code.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andreracodex&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently building modern web-based applications and digital solutions
+- 🌱 Exploring **Golang, Next.js, Node.js, Laravel, Vue.js, and Flutter**
+- 🎯 Interested in frontend architecture, backend development, and scalable systems
+- 💡 Passionate about clean code, UI/UX, and software engineering
+- 💼 Open for freelance opportunities and collaboration
 - 🌏 Based in Indonesia
 
 ---
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
-Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,vue" />
-</p>Backend
+### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel" />
-</p>Mobile
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nextjs,react" alt="Frontend technologies"/>
+</p>
+
+### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>Tools
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,go" alt="Backend technologies"/>
+</p>
+
+### Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,figma,vscode,linux" />
-</p>---
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile technologies"/>
+</p>
 
-📊 GitHub Statistics
+### Database & Tools
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreracodex&layout=compact&theme=tokyonight"/></p>---
-
-📈 Contribution Graph
-
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=andreracodex&theme=tokyo-night"/></p>---
-
-🔥 Current Focus
-
-- Developing modern frontend architecture
-- Improving Vue.js application structure
-- Building Flutter mobile applications
-- Learning API design and integrations
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,git,github,figma,vscode,linux,docker" alt="Database and development tools"/>
+</p>
 
 ---
 
-📂 Featured Work
+## 📊 GitHub Statistics
 
-Repositories contain projects such as:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreracodex&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+</p>
 
-- 🌐 Web Applications
-- 🎨 Frontend UI Systems
-- 📱 Flutter Mobile Apps
-- ⚙️ REST APIs and backend services
-
----
-
-📫 Contact
-
-📧 Email: racodex@gmail.com
-
-💬 Open for collaboration, freelance work, and development projects.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreracodex&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
 
 ---
 
-⭐ If you find my repositories useful, consider giving them a star.
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreracodex&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- Building modern frontend applications with **Next.js and Vue.js**
+- Developing scalable backend services using **Golang and Node.js**
+- Building robust web applications with **PHP and Laravel**
+- Exploring REST API architecture and system integrations
+- Developing cross-platform mobile applications with **Flutter**
+- Improving application performance, maintainability, and code quality
+
+---
+
+## 📂 Featured Work
+
+My repositories include projects and experiments in:
+
+- 🌐 Modern Web Applications
+- 🎨 Frontend Architecture & UI Systems
+- ⚙️ REST APIs & Backend Services
+- 🚀 Full-Stack Applications
+- 📱 Flutter Mobile Applications
+- 🗄️ Database Design & Management
+- 🔧 Automation & Developer Tools
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: **racodex@gmail.com**
+- 💻 GitHub: [@andreracodex](https://github.com/andreracodex)
+
+Open to collaboration, freelance projects, and interesting development opportunities.
+
+---
+
+<p align="center">
+  ⭐ If you find my repositories useful, consider giving them a star!
+</p>
